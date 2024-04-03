@@ -1,0 +1,16 @@
+{
+  "name": "tabnews-curso.dev",
+  "version": "1.0.0",
+  "description": "Primeiro repositório do curso criado, agora podemos dominar o mundo!",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "paulovgtp",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
